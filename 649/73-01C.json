@@ -1,0 +1,73 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "F:9 American -2 single frag", 
+    "commit": "f1d91b1ce17497978a8c122a4f5302ebd76812ef", 
+    "conditionals": [], 
+    "detectors": {
+        "AX": {
+            "deflection": 165.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 10.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 320.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 725.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "64973", 
+    "increment": 2, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-283", 
+    "irradiation_level": "F", 
+    "irradiation_position": 9, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Jan", 
+    "material": "K-Feldspar", 
+    "measurement": "jan_unknown120_60.py", 
+    "project": "Alana", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Gallinas", 
+    "sample": "AAf-2", 
+    "spec_sha": "7a53a104ce01382abf01c738e0410fda37641fac", 
+    "timestamp": "2016-05-02T22:40:22.169557", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "3b9100ee-c763-4b3e-b332-738ea3b635c6"
+}
